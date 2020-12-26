@@ -1,0 +1,14 @@
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\Rune Importer.exe.config
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\Rune Importer.exe
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\Rune Importer.pdb
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\HtmlAgilityPack.dll
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\HtmlAgilityPack.pdb
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\bin\Debug\HtmlAgilityPack.xml
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.csprojAssemblyReference.cache
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.Form1.resources
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.Properties.Resources.resources
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.csproj.GenerateResource.cache
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.csproj.CoreCompileInputs.cache
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\RuneImporter.csproj.CopyComplete
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\Rune Importer.exe
+D:\Old Documents\Visual Studio 2017\Projects\RuneImporter\RuneImporter\obj\Debug\Rune Importer.pdb
