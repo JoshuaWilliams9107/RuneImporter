@@ -10,7 +10,7 @@ This program automatically scrapes rune, spell order, and item build data off of
  * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
  * [HTML Agility Pack](https://html-agility-pack.net/)
  
-## - Instalation -
+## - Installation -
 1. Download Release.zip located inside the Release Folder
 2. Extract contents of zip into a directory
 
