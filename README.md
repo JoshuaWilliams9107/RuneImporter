@@ -29,4 +29,4 @@ This program automatically scrapes rune, spell order, and item build data off of
 
 
 ### - Warning -
-This Program takes control of your computers mouse upon clicking "Import into League Client", use with caution.  
+This Program takes control of your computer's mouse upon clicking "Import into League Client", use with caution.  
